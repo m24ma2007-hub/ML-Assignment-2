@@ -1,0 +1,12 @@
+{
+  "roll_number": "m24ma2007",
+  "seed": 242007,
+  "dataset": "sklearn.datasets.fetch_olivetti_faces",
+  "feature_representation": "raw flattened 64x64 pixels; 4096 features",
+  "train_per_identity": 6,
+  "validation_per_identity": 2,
+  "test_per_identity": 2,
+  "train_count": 240,
+  "validation_count": 80,
+  "test_count": 80
+}

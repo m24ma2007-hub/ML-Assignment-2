@@ -1,0 +1,5 @@
+model,test_set,accuracy,mean_winning_confidence
+Frozen single tree,clean,0.6625,1.0
+Frozen single tree,masked,0.2875,1.0
+Bagging (B=200),clean,0.9125,0.40562499999999996
+Bagging (B=200),masked,0.725,0.30212500000000003

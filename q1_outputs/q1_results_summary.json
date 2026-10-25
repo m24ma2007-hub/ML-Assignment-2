@@ -1,0 +1,66 @@
+{
+  "roll_number": "m24ma2007",
+  "seed": 242007,
+  "split_file": "olivetti_split_seed_242007.npz",
+  "selected_tree": {
+    "max_depth": "None",
+    "min_samples_leaf": 1,
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.4625,
+    "test_accuracy": 0.6625,
+    "number_of_leaves": 41.0,
+    "mean_samples_per_leaf": 5.853658536585366,
+    "fraction_singleton_leaves": 0.024390243902439025
+  },
+  "final_bagging_B": 200,
+  "bagging_at_final_B": {
+    "B": 200.0,
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.825,
+    "test_accuracy": 0.9125,
+    "mean_distinct_examples": 152.315,
+    "theoretical_expected_distinct": 151.8931938460841,
+    "mean_train_winning_vote_fraction": 0.7560416666666666,
+    "mean_test_winning_vote_fraction": 0.40562499999999996,
+    "mean_test_vote_margin": 0.2916875
+  },
+  "oob_at_final_B": {
+    "B": 200.0,
+    "oob_accuracy": 0.8208333333333333,
+    "training_samples_with_oob_vote": 240.0
+  },
+  "disagreement_at_final_B": {
+    "B": 200.0,
+    "mean_pairwise_disagreement": 0.8086896984924623
+  },
+  "vote_margin_at_final_B": {
+    "B": 200.0,
+    "mean_validation_vote_margin": 0.25025
+  },
+  "robustness": [
+    {
+      "model": "Frozen single tree",
+      "test_set": "clean",
+      "accuracy": 0.6625,
+      "mean_winning_confidence": 1.0
+    },
+    {
+      "model": "Frozen single tree",
+      "test_set": "masked",
+      "accuracy": 0.2875,
+      "mean_winning_confidence": 1.0
+    },
+    {
+      "model": "Bagging (B=200)",
+      "test_set": "clean",
+      "accuracy": 0.9125,
+      "mean_winning_confidence": 0.40562499999999996
+    },
+    {
+      "model": "Bagging (B=200)",
+      "test_set": "masked",
+      "accuracy": 0.725,
+      "mean_winning_confidence": 0.30212500000000003
+    }
+  ]
+}

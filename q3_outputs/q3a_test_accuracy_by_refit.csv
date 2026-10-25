@@ -1,0 +1,91 @@
+repetition,model,test_accuracy
+1,Single tree,0.4875
+1,Bagging,0.8125
+1,Boosting,0.5
+2,Single tree,0.525
+2,Bagging,0.825
+2,Boosting,0.3375
+3,Single tree,0.5125
+3,Bagging,0.8125
+3,Boosting,0.325
+4,Single tree,0.5
+4,Bagging,0.825
+4,Boosting,0.35
+5,Single tree,0.4875
+5,Bagging,0.8
+5,Boosting,0.2875
+6,Single tree,0.525
+6,Bagging,0.8375
+6,Boosting,0.4
+7,Single tree,0.5375
+7,Bagging,0.8875
+7,Boosting,0.275
+8,Single tree,0.4375
+8,Bagging,0.825
+8,Boosting,0.35
+9,Single tree,0.5125
+9,Bagging,0.85
+9,Boosting,0.2625
+10,Single tree,0.525
+10,Bagging,0.8625
+10,Boosting,0.4125
+11,Single tree,0.5875
+11,Bagging,0.85
+11,Boosting,0.3
+12,Single tree,0.475
+12,Bagging,0.8125
+12,Boosting,0.3125
+13,Single tree,0.5125
+13,Bagging,0.8
+13,Boosting,0.35
+14,Single tree,0.525
+14,Bagging,0.85
+14,Boosting,0.3375
+15,Single tree,0.5625
+15,Bagging,0.85
+15,Boosting,0.4
+16,Single tree,0.6
+16,Bagging,0.8125
+16,Boosting,0.375
+17,Single tree,0.4375
+17,Bagging,0.8375
+17,Boosting,0.3125
+18,Single tree,0.5
+18,Bagging,0.8
+18,Boosting,0.3375
+19,Single tree,0.575
+19,Bagging,0.8625
+19,Boosting,0.2125
+20,Single tree,0.5375
+20,Bagging,0.725
+20,Boosting,0.2875
+21,Single tree,0.5875
+21,Bagging,0.775
+21,Boosting,0.2625
+22,Single tree,0.4875
+22,Bagging,0.775
+22,Boosting,0.2
+23,Single tree,0.5375
+23,Bagging,0.75
+23,Boosting,0.175
+24,Single tree,0.5125
+24,Bagging,0.8375
+24,Boosting,0.3
+25,Single tree,0.475
+25,Bagging,0.7625
+25,Boosting,0.175
+26,Single tree,0.4375
+26,Bagging,0.875
+26,Boosting,0.3875
+27,Single tree,0.525
+27,Bagging,0.7875
+27,Boosting,0.3
+28,Single tree,0.55
+28,Bagging,0.8125
+28,Boosting,0.325
+29,Single tree,0.5625
+29,Bagging,0.825
+29,Boosting,0.2875
+30,Single tree,0.4
+30,Bagging,0.7875
+30,Boosting,0.325

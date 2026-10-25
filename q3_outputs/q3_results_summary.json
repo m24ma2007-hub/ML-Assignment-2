@@ -1,0 +1,158 @@
+{
+  "roll_number": "m24ma2007",
+  "seed": 242007,
+  "fixed_split": {
+    "train": 240,
+    "validation": 80,
+    "test": 80,
+    "split_file": "olivetti_split_seed_242007.npz"
+  },
+  "frozen_settings": {
+    "tree_depth": "None",
+    "tree_min_samples_leaf": 1,
+    "final_bagging_B": 200,
+    "boosting_depth": 4,
+    "boosting_requested_rounds": 100,
+    "boosting_actual_rounds": 100
+  },
+  "q3a": [
+    {
+      "model": "Single tree",
+      "bias_squared": 0.35300000000000004,
+      "variance": 0.6178333333333335,
+      "mean_test_accuracy": 0.5145833333333334,
+      "std_test_accuracy": 0.0478056560160661
+    },
+    {
+      "model": "Bagging",
+      "bias_squared": 0.4911757923611111,
+      "variance": 0.018819790972222222,
+      "mean_test_accuracy": 0.8175000000000001,
+      "std_test_accuracy": 0.037370465934182986
+    },
+    {
+      "model": "Boosting",
+      "bias_squared": 0.8857139593952731,
+      "variance": 0.01661853406547221,
+      "mean_test_accuracy": 0.3154166666666666,
+      "std_test_accuracy": 0.07083882669705993
+    }
+  ],
+  "q3b": [
+    {
+      "depth_setting": "shallow_depth_2",
+      "depth": "2",
+      "model": "Single tree",
+      "bias_squared": 0.9121981047407743,
+      "variance": 0.0459209682796145,
+      "mean_test_accuracy": 0.061250000000000006,
+      "std_test_accuracy": 0.017167405965555976
+    },
+    {
+      "depth_setting": "shallow_depth_2",
+      "depth": "2",
+      "model": "Bagging-100",
+      "bias_squared": 0.9290548305555555,
+      "variance": 0.01076933611111111,
+      "mean_test_accuracy": 0.15291666666666667,
+      "std_test_accuracy": 0.055484089569914546
+    },
+    {
+      "depth_setting": "selected_depth",
+      "depth": "None",
+      "model": "Single tree",
+      "bias_squared": 0.3511666666666666,
+      "variance": 0.6121666666666666,
+      "mean_test_accuracy": 0.5183333333333333,
+      "std_test_accuracy": 0.05942734383600111
+    },
+    {
+      "depth_setting": "selected_depth",
+      "depth": "None",
+      "model": "Bagging-100",
+      "bias_squared": 0.48939185555555553,
+      "variance": 0.023265727777777776,
+      "mean_test_accuracy": 0.8062500000000001,
+      "std_test_accuracy": 0.03577196696702118
+    },
+    {
+      "depth_setting": "deep_depth_None",
+      "depth": "None",
+      "model": "Single tree",
+      "bias_squared": 0.3511666666666666,
+      "variance": 0.6121666666666666,
+      "mean_test_accuracy": 0.5183333333333333,
+      "std_test_accuracy": 0.05942734383600111
+    },
+    {
+      "depth_setting": "deep_depth_None",
+      "depth": "None",
+      "model": "Bagging-100",
+      "bias_squared": 0.48939185555555553,
+      "variance": 0.023265727777777776,
+      "mean_test_accuracy": 0.8062500000000001,
+      "std_test_accuracy": 0.03577196696702118
+    }
+  ],
+  "q3c": [
+    {
+      "depth_setting": "shallow_depth_2",
+      "depth": "2",
+      "single_tree_bias_squared": 0.9121981047407743,
+      "bagging_bias_squared": 0.9290548305555555,
+      "single_tree_variance": 0.0459209682796145,
+      "bagging_variance": 0.01076933611111111,
+      "variance_reduction": 0.03515163216850339,
+      "single_tree_mean_test_accuracy": 0.061250000000000006,
+      "bagging_mean_test_accuracy": 0.15291666666666667,
+      "accuracy_improvement": 0.09166666666666667
+    },
+    {
+      "depth_setting": "selected_depth",
+      "depth": "None",
+      "single_tree_bias_squared": 0.3511666666666666,
+      "bagging_bias_squared": 0.48939185555555553,
+      "single_tree_variance": 0.6121666666666666,
+      "bagging_variance": 0.023265727777777776,
+      "variance_reduction": 0.5889009388888888,
+      "single_tree_mean_test_accuracy": 0.5183333333333333,
+      "bagging_mean_test_accuracy": 0.8062500000000001,
+      "accuracy_improvement": 0.2879166666666668
+    },
+    {
+      "depth_setting": "deep_depth_None",
+      "depth": "None",
+      "single_tree_bias_squared": 0.3511666666666666,
+      "bagging_bias_squared": 0.48939185555555553,
+      "single_tree_variance": 0.6121666666666666,
+      "bagging_variance": 0.023265727777777776,
+      "variance_reduction": 0.5889009388888888,
+      "single_tree_mean_test_accuracy": 0.5183333333333333,
+      "bagging_mean_test_accuracy": 0.8062500000000001,
+      "accuracy_improvement": 0.2879166666666668
+    }
+  ],
+  "q3d": [
+    {
+      "model": "Single tree",
+      "clean_test_accuracy": 0.6625,
+      "masked_test_accuracy": 0.2875,
+      "bias_squared": 0.35300000000000004,
+      "variance": 0.6178333333333335
+    },
+    {
+      "model": "Bagging B=200",
+      "clean_test_accuracy": 0.9125,
+      "masked_test_accuracy": 0.725,
+      "bias_squared": 0.4911757923611111,
+      "variance": 0.018819790972222222
+    },
+    {
+      "model": "Boosting depth=4, rounds=100",
+      "clean_test_accuracy": 0.475,
+      "masked_test_accuracy": 0.45,
+      "bias_squared": 0.8857139593952731,
+      "variance": 0.01661853406547221
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+depth_setting,depth,repetition,model,test_accuracy
+shallow_depth_2,2,1,Single tree,0.1
+shallow_depth_2,2,1,Bagging-100,0.2125
+shallow_depth_2,2,2,Single tree,0.05
+shallow_depth_2,2,2,Bagging-100,0.175
+shallow_depth_2,2,3,Single tree,0.025
+shallow_depth_2,2,3,Bagging-100,0.2
+shallow_depth_2,2,4,Single tree,0.075
+shallow_depth_2,2,4,Bagging-100,0.1625
+shallow_depth_2,2,5,Single tree,0.0625
+shallow_depth_2,2,5,Bagging-100,0.1125
+shallow_depth_2,2,6,Single tree,0.05
+shallow_depth_2,2,6,Bagging-100,0.1
+shallow_depth_2,2,7,Single tree,0.0625
+shallow_depth_2,2,7,Bagging-100,0.2
+shallow_depth_2,2,8,Single tree,0.0375
+shallow_depth_2,2,8,Bagging-100,0.1125
+shallow_depth_2,2,9,Single tree,0.075
+shallow_depth_2,2,9,Bagging-100,0.125
+shallow_depth_2,2,10,Single tree,0.0625
+shallow_depth_2,2,10,Bagging-100,0.1375
+shallow_depth_2,2,11,Single tree,0.075
+shallow_depth_2,2,11,Bagging-100,0.0625
+shallow_depth_2,2,12,Single tree,0.0375
+shallow_depth_2,2,12,Bagging-100,0.275
+shallow_depth_2,2,13,Single tree,0.0625
+shallow_depth_2,2,13,Bagging-100,0.1125
+shallow_depth_2,2,14,Single tree,0.0375
+shallow_depth_2,2,14,Bagging-100,0.2375
+shallow_depth_2,2,15,Single tree,0.0625
+shallow_depth_2,2,15,Bagging-100,0.275
+shallow_depth_2,2,16,Single tree,0.05
+shallow_depth_2,2,16,Bagging-100,0.15
+shallow_depth_2,2,17,Single tree,0.1
+shallow_depth_2,2,17,Bagging-100,0.1625
+shallow_depth_2,2,18,Single tree,0.075
+shallow_depth_2,2,18,Bagging-100,0.0875
+shallow_depth_2,2,19,Single tree,0.0625
+shallow_depth_2,2,19,Bagging-100,0.1125
+shallow_depth_2,2,20,Single tree,0.075
+shallow_depth_2,2,20,Bagging-100,0.15
+shallow_depth_2,2,21,Single tree,0.0625
+shallow_depth_2,2,21,Bagging-100,0.15
+shallow_depth_2,2,22,Single tree,0.05
+shallow_depth_2,2,22,Bagging-100,0.1375
+shallow_depth_2,2,23,Single tree,0.05
+shallow_depth_2,2,23,Bagging-100,0.1625
+shallow_depth_2,2,24,Single tree,0.075
+shallow_depth_2,2,24,Bagging-100,0.1625
+shallow_depth_2,2,25,Single tree,0.0375
+shallow_depth_2,2,25,Bagging-100,0.125
+shallow_depth_2,2,26,Single tree,0.0625
+shallow_depth_2,2,26,Bagging-100,0.2
+shallow_depth_2,2,27,Single tree,0.0625
+shallow_depth_2,2,27,Bagging-100,0.0375
+shallow_depth_2,2,28,Single tree,0.0625
+shallow_depth_2,2,28,Bagging-100,0.1125
+shallow_depth_2,2,29,Single tree,0.0625
+shallow_depth_2,2,29,Bagging-100,0.1375
+shallow_depth_2,2,30,Single tree,0.075
+shallow_depth_2,2,30,Bagging-100,0.2
+selected_depth,None,1,Single tree,0.5375
+selected_depth,None,1,Bagging-100,0.825
+selected_depth,None,2,Single tree,0.475
+selected_depth,None,2,Bagging-100,0.825
+selected_depth,None,3,Single tree,0.4625
+selected_depth,None,3,Bagging-100,0.8125
+selected_depth,None,4,Single tree,0.45
+selected_depth,None,4,Bagging-100,0.7875
+selected_depth,None,5,Single tree,0.5375
+selected_depth,None,5,Bagging-100,0.85
+selected_depth,None,6,Single tree,0.5375
+selected_depth,None,6,Bagging-100,0.775
+selected_depth,None,7,Single tree,0.5125
+selected_depth,None,7,Bagging-100,0.825
+selected_depth,None,8,Single tree,0.5625
+selected_depth,None,8,Bagging-100,0.8375
+selected_depth,None,9,Single tree,0.6
+selected_depth,None,9,Bagging-100,0.85
+selected_depth,None,10,Single tree,0.5
+selected_depth,None,10,Bagging-100,0.8125
+selected_depth,None,11,Single tree,0.575
+selected_depth,None,11,Bagging-100,0.8
+selected_depth,None,12,Single tree,0.4
+selected_depth,None,12,Bagging-100,0.8375
+selected_depth,None,13,Single tree,0.4875
+selected_depth,None,13,Bagging-100,0.725
+selected_depth,None,14,Single tree,0.4375
+selected_depth,None,14,Bagging-100,0.8
+selected_depth,None,15,Single tree,0.5125
+selected_depth,None,15,Bagging-100,0.85
+selected_depth,None,16,Single tree,0.5
+selected_depth,None,16,Bagging-100,0.85
+selected_depth,None,17,Single tree,0.5875
+selected_depth,None,17,Bagging-100,0.825
+selected_depth,None,18,Single tree,0.575
+selected_depth,None,18,Bagging-100,0.7625
+selected_depth,None,19,Single tree,0.55
+selected_depth,None,19,Bagging-100,0.85
+selected_depth,None,20,Single tree,0.6125
+selected_depth,None,20,Bagging-100,0.75
+selected_depth,None,21,Single tree,0.4875
+selected_depth,None,21,Bagging-100,0.8125
+selected_depth,None,22,Single tree,0.55
+selected_depth,None,22,Bagging-100,0.7875
+selected_depth,None,23,Single tree,0.4125
+selected_depth,None,23,Bagging-100,0.7375
+selected_depth,None,24,Single tree,0.5
+selected_depth,None,24,Bagging-100,0.775
+selected_depth,None,25,Single tree,0.4625
+selected_depth,None,25,Bagging-100,0.8125
+selected_depth,None,26,Single tree,0.45
+selected_depth,None,26,Bagging-100,0.8625
+selected_depth,None,27,Single tree,0.6
+selected_depth,None,27,Bagging-100,0.775
+selected_depth,None,28,Single tree,0.5125
+selected_depth,None,28,Bagging-100,0.7875
+selected_depth,None,29,Single tree,0.5375
+selected_depth,None,29,Bagging-100,0.8
+selected_depth,None,30,Single tree,0.625
+selected_depth,None,30,Bagging-100,0.7875
+deep_depth_None,None,1,Single tree,0.5375
+deep_depth_None,None,1,Bagging-100,0.825
+deep_depth_None,None,2,Single tree,0.475
+deep_depth_None,None,2,Bagging-100,0.825
+deep_depth_None,None,3,Single tree,0.4625
+deep_depth_None,None,3,Bagging-100,0.8125
+deep_depth_None,None,4,Single tree,0.45
+deep_depth_None,None,4,Bagging-100,0.7875
+deep_depth_None,None,5,Single tree,0.5375
+deep_depth_None,None,5,Bagging-100,0.85
+deep_depth_None,None,6,Single tree,0.5375
+deep_depth_None,None,6,Bagging-100,0.775
+deep_depth_None,None,7,Single tree,0.5125
+deep_depth_None,None,7,Bagging-100,0.825
+deep_depth_None,None,8,Single tree,0.5625
+deep_depth_None,None,8,Bagging-100,0.8375
+deep_depth_None,None,9,Single tree,0.6
+deep_depth_None,None,9,Bagging-100,0.85
+deep_depth_None,None,10,Single tree,0.5
+deep_depth_None,None,10,Bagging-100,0.8125
+deep_depth_None,None,11,Single tree,0.575
+deep_depth_None,None,11,Bagging-100,0.8
+deep_depth_None,None,12,Single tree,0.4
+deep_depth_None,None,12,Bagging-100,0.8375
+deep_depth_None,None,13,Single tree,0.4875
+deep_depth_None,None,13,Bagging-100,0.725
+deep_depth_None,None,14,Single tree,0.4375
+deep_depth_None,None,14,Bagging-100,0.8
+deep_depth_None,None,15,Single tree,0.5125
+deep_depth_None,None,15,Bagging-100,0.85
+deep_depth_None,None,16,Single tree,0.5
+deep_depth_None,None,16,Bagging-100,0.85
+deep_depth_None,None,17,Single tree,0.5875
+deep_depth_None,None,17,Bagging-100,0.825
+deep_depth_None,None,18,Single tree,0.575
+deep_depth_None,None,18,Bagging-100,0.7625
+deep_depth_None,None,19,Single tree,0.55
+deep_depth_None,None,19,Bagging-100,0.85
+deep_depth_None,None,20,Single tree,0.6125
+deep_depth_None,None,20,Bagging-100,0.75
+deep_depth_None,None,21,Single tree,0.4875
+deep_depth_None,None,21,Bagging-100,0.8125
+deep_depth_None,None,22,Single tree,0.55
+deep_depth_None,None,22,Bagging-100,0.7875
+deep_depth_None,None,23,Single tree,0.4125
+deep_depth_None,None,23,Bagging-100,0.7375
+deep_depth_None,None,24,Single tree,0.5
+deep_depth_None,None,24,Bagging-100,0.775
+deep_depth_None,None,25,Single tree,0.4625
+deep_depth_None,None,25,Bagging-100,0.8125
+deep_depth_None,None,26,Single tree,0.45
+deep_depth_None,None,26,Bagging-100,0.8625
+deep_depth_None,None,27,Single tree,0.6
+deep_depth_None,None,27,Bagging-100,0.775
+deep_depth_None,None,28,Single tree,0.5125
+deep_depth_None,None,28,Bagging-100,0.7875
+deep_depth_None,None,29,Single tree,0.5375
+deep_depth_None,None,29,Bagging-100,0.8
+deep_depth_None,None,30,Single tree,0.625
+deep_depth_None,None,30,Bagging-100,0.7875
